@@ -3,7 +3,7 @@
 ## AIM:
 To write a C program to perform multiplication and division of two numbers using functions (without argument and without return type).
 
-## Algorithm
+## Algorithm 
 1. Start. 
 2. Declare the variables. 
 3. Prompt the user to enter a value. 
